@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quy Định Sử Dụng Phòng Thực Hành Máy Tính</title>
+	<link rel="stylesheet" href="/css/style.css">
+	<style>
+		body {
+			font-size: 24px;
+			color: blue;
+			text-align: center;
+		}
+		td {
+			padding: 10px;
+			border: 1px solid black;
+		}
+		.bold {
+			font-weight: bold;
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<h1>Quy Định Sử Dụng Phòng Thực Hành Máy Tính</h1>
+	<table>
+		<tr>
+		  <td colspan="2" style="text-align: center; color: rgba(9, 3, 66, 0.616); font-weight: bold;">(Trích quy định ban hành quyết định 105/QĐ-ĐHKH ngày 01/02/2023 của Hiệu trưởng)</td>
+		</tr>
+		<tr>
+		  <td colspan="2" style="color: rgb(219, 7, 7); font-weight: bold;">1. Đối với người học</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">a. </td>
+		  <td>Phải mang thẻ học sinh, sinh viên khi vào phòng máy.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">b. </td>
+		  <td>Không mang các chất dễ nổ, dễ cháy, không mang thức ăn, nước uống vào phòng máy.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">c. </td>
+		  <td>Giữ trật tự trong khu vực. Giữ gìn vệ sinh chung, không hút thuốc, không viết, vẽ bậy. Bỏ rác đúng nơi quy định.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">d. </td>
+		  <td>Không tự ý di chuyển hay thay đổi, tháo, lắp bất kì thiết bị nào trong phòng máy. Không được rút các dây mạng, dây nguồn của máy tính trong phòng máy. Nghiêm cấm việc các thiết bị gắn theo máy.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">e. </td>
+		  <td>Không tự ý thay đổi các cài đặt trên phần mềm, trò chơi điện tử, không tự ý sửa đổi phá hoại các tập tin và dữ liệu không thuộc phạm vi cá nhân trên máy tính. Không can thiệp vào phần cứng cài đặt sẵn trên máy.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">f. </td>
+		  <td>Nghiêm cấm việc sử dụng máy tính làm công cụ tấn công các máy tính khác. Nghiêm cấm truy cập vào các trang web có nội dung độc hại như: phản động, khiêu dâm, kích động bạo lực,..</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">g. </td>
+		  <td>Không sử dụng điện thoại trong giờ học. Không sử dụng laptop cá nhân khi chưa có sự đồng ý của giảng viên.</td>
+		</tr>
+		<tr>
+			<td style="color: darkblue; font-weight: bold;">h. </td>
+			<td> Kết thúc buổi học phải tắt máy tính và các thiết bị khác theo đúng quy trình, sắp xếp ghế và các thiết bị ngoại vi của máy ngăn nắp , kiểm tra tư trang, vật dụng cá nhân đầy đủ trước khi ra về.</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="color: rgba(245, 9, 9, 0.904); font-weight: bold;">2.Đối với giáo viên</td>
+		</tr>
+		<tr>
+			<td style="color: darkblue; font-weight: bold;">a. </td> 
+			<td>Giáo viên sử dụng phòng máy cho việc dạy học phải đúng theo lịch sắp xếp của Phòng .</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">b. </td>
+		  <td>Giáo viên có nhu cầu sử dụng phòng máy chho việc dạy bù, dạy thêm, làm bài tập nhóm phải đăng ký lịch trước với Phòng đào tạo đại học và cộng tác SV, và liên hệ với các bộ phụ trách phòng máy..</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">c. </td>
+		  <td>Trong thời gian sử dụng, giáo viên phải luôn có mặt tại phòng máy, chịu trách nhiệm quản lý mọi hoạt động học tập của người học.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">d. </td>
+		  <td>Trước khi kết thúc buổi học, giáo viên nhắc nhở người học tắt máy, sắp xếp gọn gàng, ghi đầy đủ thông tin vào Sổ nhật ký phòng máy, tắt hết các thiết bị điện trước khi rời khỏi phòng.</td>
+		</tr>
+		<tr>
+		  <td style="color: darkblue; font-weight: bold;">e. </td>
+		  <td>Giáo viên chịu trách nhiệm bảo vệ và giữu gìn tài sản cảu phòng máy trong tiết dạy cả mình. Mọi hư hỏng, mất mát,sự cố kỹ thuật và các hiện tượng bất thưởng khác xảy ra trong quá trình sử dụng phòng máy, giáo viên báo ngay cho cán bộ quản lý để xử lý.</td>
+		</tr>
+		<tr>
+	</table>
+</body>
+</html>
